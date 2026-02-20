@@ -1,0 +1,6 @@
+ClusterStyle,SizeOfCluster,Accuracy
+Van,10,0.6
+SUV,31,0.5161
+Sedan,5,0.6
+Sedan,59,0.6102
+SUV,15,0.9333
